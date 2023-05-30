@@ -1,5 +1,5 @@
 # quotes
- this website lists out the beast quotes,and explains them 
+ this website lists out the best quotes,and explains them 
  
  used html to create this
  
